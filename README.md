@@ -1,6 +1,6 @@
 # react-static-plugin-stylus
 
-A [React-Static](https://react-static.js.org) plugin that adds loader and SSR support for [stylus](http://stylus-lang.com/)
+A [React-Static](https://react-static.js.org) plugin that adds loader and SSR support for [stylus](http://stylus-lang.com/). Used in static landing page.
 
 ## Installation
 
